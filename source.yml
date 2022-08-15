@@ -1,3 +1,6 @@
 name: autoproj_daemon_tests
 version_control:
+    - autoproj_daemon_tests-pkg:
+        github: doudou/autoproj_daemon_tests-pkg
+
 overrides:
